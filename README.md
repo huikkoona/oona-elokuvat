@@ -8,9 +8,9 @@ Sovellus hakee elokuvatietoja Finnkinon XML-rajapinnasta ja näyttää ne kortte
 
 ## 🔧 Tekniikat
 
-- HTML5
-- CSS3 (vaaleanpunainen + tumma Finnkino-teema)
-- JavaScript (native, ilman kirjastoja)
+- HTML
+- CSS 
+- JavaScript
 - AJAX `fetch()` + `DOMParser` (XML → JS)
 - Julkaistu **Netlifyssä**
 - Koodi saatavilla **GitHubissa**
